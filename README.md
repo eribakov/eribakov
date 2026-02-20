@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there, I'm Emili! 👋
 
-<!--
-**eribakov/eribakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a second-year **Computing** student at **Queen's University**, specializing in **Math & Analytics**.
 
-Here are some ideas to get you started:
+I'm passionate about building real-world web applications that solve meaningful problems. As a **front-end developer @ QWeb**, I work with React, Next.js, and TypeScript to create interactive, user-focused experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love the intersection of mathematics, algorithms, and modern development.
+
+
+Connect with me!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](YOUR_PORTFOLIO_URL)
+
+
