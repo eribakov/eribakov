@@ -2,7 +2,7 @@
 
 I'm a second-year **Computing** student at **Queen's University**, specializing in **Math & Analytics**.
 
-I'm passionate about building real-world web applications that solve meaningful problems. As a **front-end developer @ QWeb**, I work with React, Next.js, and TypeScript to create interactive, user-focused experiences.
+I'm passionate about building real-world web applications that solve meaningful problems. Through my projects and various club roles, I mostly work with React, Next.js, and TypeScript to create interactive, user-focused experiences.
 
 I love learning about the intersection of mathematics, algorithms, and modern development.
 
