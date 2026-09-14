@@ -1,6 +1,6 @@
 ## Hi there, I'm Emili! 👋
 
-I'm a second-year **Computing** student at **Queen's University**, specializing in **Math & Analytics**.
+I'm a third-year **Computing** student at **Queen's University**, specializing in **Math & Analytics**.
 
 I'm passionate about building real-world web applications that solve meaningful problems. Through my projects and various club roles, I mostly work with React, Next.js, and TypeScript to create interactive, user-focused experiences.
 
